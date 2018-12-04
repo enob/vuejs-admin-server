@@ -1,7 +1,7 @@
 {
   "name": "oauthcenter",
   "version": "1.0.0",
-  "description": "nodejs OAuth authorization server implements based on eggjs",
+  "description": "nodejs OAuth authorization server implements based on eggjs!",
   "private": true,
   "dependencies": {
     "bcryptjs": "^2.4.3",
